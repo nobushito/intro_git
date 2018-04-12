@@ -1,2 +1,5 @@
 Gitの練習
 基本的なフロー
+git add
+git commit
+なんでや
