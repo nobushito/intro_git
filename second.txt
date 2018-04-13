@@ -4,5 +4,3 @@ git add
 git commit
 ‚È‚ñ‚Å‚â
 wakanne
-‚³‚ç‚É•ÏX
-.git status
