@@ -6,3 +6,4 @@ git commit
 wakanne
 ‚³‚ç‚É•ÏX
 .git status
+.git diff
